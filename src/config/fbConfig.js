@@ -4,7 +4,7 @@
 
  // Initialize Firebase
  var config = {
-  apiKey: "AIzaSyCKQtCjjdQQtbs3j1lm1h2o2PWYBl9vQpg",
+  apiKey: "NOTPUBLISHED",
   authDomain: "fresh-fit.firebaseapp.com",
   databaseURL: "https://fresh-fit.firebaseio.com",
   projectId: "fresh-fit",
